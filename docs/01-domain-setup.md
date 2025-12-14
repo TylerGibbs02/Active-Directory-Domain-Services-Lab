@@ -1,7 +1,7 @@
 # Domain Setup
 
 ## Objective
-Create a new Forest and Domain and promote server to DC
+Create the Domain and promote server to DC
 
 ## Steps Performed
 1. Assigned server with a static IP address and pointed its DNS to the loopback address
