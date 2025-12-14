@@ -9,7 +9,7 @@ The lab covers:
 - **User and computer management**
 - **Common help desk workflows** (password resets, account unlocks, group membership changes)
 - **Basic Group Policy usage**
-- **Troubleshooting and validation**
+- **Validation**
 
 The emphasis is on **practical, entry-level IT support responsibilities**, with enough administrative exposure to show understanding of how AD works behind the scenes.
 
@@ -19,7 +19,7 @@ The emphasis is on **practical, entry-level IT support responsibilities**, with 
 
 ### Infrastructure
 - **Hypervisor:** VMware
-- **Server OS:** Windows Server 2022 Datacenter Graphical (Evaluation)  
+- **Server OS:** Windows Server 2022 (Evaluation)  
 - **Client OS:** Windows 11  
 - **Domain Name:** `lab.local`
 
@@ -46,14 +46,11 @@ The emphasis is on **practical, entry-level IT support responsibilities**, with 
 - Promoted the server to **Domain Controller**
 - Created a new forest and domain
 
-**Help Desk Relevance:**  
-Understanding domain creation helps explain authentication behavior and common login issues.
-
 ---
 
 ### 2. DNS Verification
 - Verified DNS was installed automatically
-- Confirmed domain name resolution from clients using `nslookup`
+- Confirmed domain name resolution using `nslookup`
 - Validated SRV records
 
 ---
@@ -81,10 +78,7 @@ Created OUs to simulate a real environment:
   - Printer access
   - Shared folders
   - Department-based access
-- Added and removed users from groups
-
-**Help Desk Relevance:**  
-Group membership updates are one of the most common access-related tickets.
+- Added users to appropriate groups
 
 ---
 
@@ -139,29 +133,6 @@ Validated using:
 
 ---
 
-## Troubleshooting Scenarios
-
-### 11. Login Failure Diagnosis
-Simulated and resolved:
-- Incorrect password errors
-- Disabled account logins
-- Missing group access issues
-
-Tools used:
-- Active Directory Users and Computers
-- Event Viewer
-- Client-side error messages
-
----
-
-### 12. DNS / Authentication Issue
-- Misconfigured client DNS settings
-- Identified domain login failure
-- Corrected DNS configuration
-- Verified restored domain connectivity
-
----
-
 ## Documentation & Validation
 - Screenshots of:
   - ADUC structure
@@ -180,7 +151,6 @@ Tools used:
 - Password resets and account unlocks  
 - Group-based access control  
 - Basic Group Policy administration  
-- Windows domain troubleshooting  
 - Technical documentation  
 
 ---
@@ -188,7 +158,6 @@ Tools used:
 ## Why This Lab Is Relevant to Help Desk Roles
 This project reflects **real-world help desk responsibilities**, including:
 - Account access issues
-- Login troubleshooting
 - Group membership changes
 - Policy-related user problems
 
