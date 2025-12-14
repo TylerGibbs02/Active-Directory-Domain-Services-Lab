@@ -25,3 +25,4 @@ Create the Domain and promote server to DC
 
 - Server successfully configured as the DC for lab.local domain and server name changed to DC01
 
+![](/screenshots/Server_configured_as_DC_and_renamed.png)
