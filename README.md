@@ -35,7 +35,6 @@ The emphasis is on **practical, entry-level IT support responsibilities**, with 
 - Build a functional Active Directory domain from scratch  
 - Perform **daily help desk tasks using ADUC**  
 - Apply **basic security and organizational best practices**  
-- Document procedures clearly for repeatability  
 
 ---
 
@@ -48,21 +47,14 @@ The emphasis is on **practical, entry-level IT support responsibilities**, with 
 
 ---
 
-### 2. DNS Verification
-- Verified DNS was installed automatically
-- Confirmed domain name resolution using `nslookup`
-- Validated SRV records
+### 2(a). Organizational Unit (OU) Design
+- Created OUs to simulate a University environment
 
 ---
 
-### 3. Organizational Unit (OU) Design
-Created OUs to simulate a real environment:
-
-
-
 ## User & Group Management
 
-### 4. User Account Creation
+### 2(b). User Accounts and Computers
 - Created user accounts for:
   - Students
   - Faculty
@@ -73,20 +65,16 @@ Created OUs to simulate a real environment:
 
 ---
 
-### 5. Security Groups
-- Created security groups for:
-  - Printer access
-  - Shared folders
-  - Department-based access
+### 3. Security Groups
+- Created security groups for department-based access
 - Added users to appropriate groups
 
 ---
 
 ## Client Configuration
 
-### 6. Join Workstations to the Domain
-- Joined `CLIENT01` to the domain
-- Verified computer account creation in AD
+### 4. Join Workstations to the Domain
+- Joined `CLIENT01` to the domain using pre-staged computer
 - Logged in using domain credentials
 
 ---
