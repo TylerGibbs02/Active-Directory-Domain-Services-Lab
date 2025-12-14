@@ -1,4 +1,4 @@
-# Organizational Unit Design
+# Organizational Unit Design and User/Computer Creation
 
 ## Objective
 Create basic OUs resembling University functions and populate them with user accounts and computers
