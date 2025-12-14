@@ -12,7 +12,9 @@ Create security groups for students, faculty, and staff to later be tied to GPOs
   - Student_ClassroomPC_access
   - Faculty_StaffPC_access
   - IT_Helpdesk
-- Assign Students to St
+- Assign Students to Student_ClassroomPC_access
+- Assign Faculty to Faculty_StaffPC_access
+- Assign IT_Staff to IT_Helpdesk
 
 <br>
 
