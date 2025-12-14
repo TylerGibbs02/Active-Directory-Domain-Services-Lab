@@ -48,7 +48,14 @@ The emphasis is on **practical, entry-level IT support responsibilities**, with 
 ---
 
 ### 2(a). Organizational Unit (OU) Design
-- Created OUs to simulate a University environment
+- Created OUs to simulate a University environment:
+- lab_Users
+  - Students
+  - Faculty
+  - IT staff
+- lab_Computers
+  - ClassroomPCs
+  - StaffPCs
 
 ---
 
