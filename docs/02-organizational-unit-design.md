@@ -13,6 +13,7 @@ Create basic OUs resembling University functions
   - Staff_Laptops
 
 ## Validation
-- Completed OU creation
 
-![](/screenshots/)
+- Completed OUs inside the Active Directory Users and Computers tool tree structure
+
+![](/screenshots/OU_Design.png)
