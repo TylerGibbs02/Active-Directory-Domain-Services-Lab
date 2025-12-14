@@ -18,4 +18,4 @@ Create basic OUs resembling University functions and populate them with user acc
 
 - Completed OUs inside the Active Directory Users and Computers tool tree structure
 
-![](/screenshots/OU_Design.png)
+![](/screenshots/OUs_Design.png)
