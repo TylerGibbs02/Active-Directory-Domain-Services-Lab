@@ -20,7 +20,7 @@ The emphasis is on **practical, entry-level IT support responsibilities**, with 
 ### Infrastructure
 - **Hypervisor:** VMware
 - **Server OS:** Windows Server 2022 Datacenter Graphical (Evaluation)  
-- **Client OS:** Windows 10 / Windows 11  
+- **Client OS:** Windows 11  
 - **Domain Name:** `lab.local`
 
 ### Virtual Machines
