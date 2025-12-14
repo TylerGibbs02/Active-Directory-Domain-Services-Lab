@@ -28,7 +28,6 @@ The emphasis is on **practical, entry-level IT support responsibilities**, with 
 |------|------|
 | DC01 | Domain Controller (AD DS, DNS) |
 | CLIENT01 | Domain-joined workstation |
-| CLIENT02 (optional) | Additional test workstation |
 
 ---
 
