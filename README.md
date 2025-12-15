@@ -88,20 +88,13 @@ The emphasis is on **practical, entry-level IT support responsibilities**, with 
 
 ## Help Desk–Focused Tasks
 
-### 7. Password Reset Workflow
+### 5. Password Reset Workflow
 Simulated a common ticket:
 > “User forgot their password and is locked out.”
 
 Actions performed:
-- Reset user password in ADUC
+- Reset user password in ADUC through helpdesk account on Client workstation using RSAT
 - Forced password change at next login
-
----
-
-### 8. Account Lockout & Unlock
-- Intentionally locked a user account
-- Identified lockout status in ADUC
-- Unlocked account and verified access
 
 ---
 
