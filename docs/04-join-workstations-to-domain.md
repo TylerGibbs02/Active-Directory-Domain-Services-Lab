@@ -21,4 +21,4 @@ Windows 11 VM joined to lab.local domain
 ![](/screenshots/Client_joined_domain.png)
 
 Signed into Client01 through helpdesk user created in the domain
-![](/screenshots/
+![](/screenshots/logged_as_domain_user.png)
