@@ -17,18 +17,18 @@ Create the Domain and promote server to DC
 
 ## Validation
 
-- IP and DNS Configuration
+IP and DNS Configuration
 
 ![image](/screenshots/Server_IP_DNS_setup.png)
 
 ---
 
-- Active Directory Domain Services successfully installed
+Active Directory Domain Services successfully installed
 
 ![](/screenshots/Installed_Active_Directory_Domain_Services.png)
 
 ---
 
-- Server successfully configured as the DC for lab.local domain and server name changed to DC01
+Server successfully configured as the DC for lab.local domain and server name changed to DC01
 
 ![](/screenshots/Server_configured_as_DC_and_renamed.png)
