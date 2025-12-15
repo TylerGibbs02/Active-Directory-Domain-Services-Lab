@@ -31,3 +31,8 @@ Password reset and force reset at logon through RSAT: Users and Computers tool
 Resetting password at next logon
 
 ![](/screenshots/next_logon_reset.png)
+
+<br>
+
+## Unexpected complications
+After performing the 'next logon password reset', an error occured where the Trust Relationship between the workstation and the DC was broken. I could no longer access domain user accounts. I was able to resolve this issue by logging into the Client administrator account, removing myself from the domain, then rejoining the domain.
