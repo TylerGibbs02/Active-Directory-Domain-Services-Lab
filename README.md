@@ -98,18 +98,11 @@ Actions performed:
 
 ---
 
-### 9. Enable / Disable User Accounts
-- Disabled accounts for 'terminated users'
-- Re-enabled accounts
-- Verified login behavior from client machines
-
----
-
-### 10. Group Policy Basics
+### 6. Group Policy Basics
 Applied simple Group Policies:
 - Password complexity enforcement
 - Disabled Control Panel for student users
-- Mapped a network drive
+- etc.
 
 Linked GPOs at:
 - Domain level
@@ -122,13 +115,7 @@ Validated using:
 ---
 
 ## Documentation & Validation
-- Screenshots of:
-  - ADUC structure
-  - User and group properties
-  - GPO links
-- Command outputs:
-  - `ipconfig /all`
-  - `gpresult /r`
+- Screenshots of processes and outcomes
 - Step-by-step documentation for each task
 
 ---
@@ -140,15 +127,5 @@ Validated using:
 - Group-based access control  
 - Basic Group Policy administration  
 - Technical documentation  
-
----
-
-## Why This Lab Is Relevant to Help Desk Roles
-This project reflects **real-world help desk responsibilities**, including:
-- Account access issues
-- Group membership changes
-- Policy-related user problems
-
-It also demonstrates understanding of how help desk work fits into **enterprise domain infrastructure**.
 
 ---
