@@ -107,10 +107,7 @@ Applied simple Group Policies:
 Linked GPOs at:
 - Domain level
 - OU level
-
-Validated using:
-- `gpresult /r`
-- `rsop.msc`
+- Computer level
 
 ---
 
