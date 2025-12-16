@@ -7,7 +7,7 @@ This project demonstrates hands-on experience with **Active Directory in a help 
 The lab covers:
 - Initial **domain setup and configuration**
 - **User and computer management**
-- **Common help desk workflows** (password resets, account unlocks, group membership changes)
+- **Common help desk workflows**
 - **Basic Group Policy usage**
 - **Validation**
 
